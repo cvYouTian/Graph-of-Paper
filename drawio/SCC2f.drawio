@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-13T03:16:01.498Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="2DJWCpdhUq7Dt8qkxauC" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-13T03:18:08.472Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="eW5h7Wk9Z1SxRK4s2eOE" version="22.0.4" type="github">
   <diagram name="第 1 页" id="dPEF6ZXibk5AAm-VxSXz">
     <mxGraphModel dx="1145" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -97,11 +97,11 @@
         <mxCell id="jbyKAua8zMZjnr2aoyAC-89" value="Input&lt;br&gt;Feature X" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="90" y="360" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jbyKAua8zMZjnr2aoyAC-90" value="I&lt;br&gt;Feature X" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="290" y="360" width="80" height="40" as="geometry" />
+        <mxCell id="jbyKAua8zMZjnr2aoyAC-90" value="Spatial-Refined&lt;br&gt;Feature X&lt;sup&gt;w&lt;/sup&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="275" y="355" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="jbyKAua8zMZjnr2aoyAC-91" value="Input&lt;br&gt;Feature X" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="470" y="360" width="80" height="40" as="geometry" />
+        <mxCell id="jbyKAua8zMZjnr2aoyAC-91" value="Channel-Refined&lt;br&gt;Feature Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="455" y="360" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
