@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-13T09:57:46.018Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="71Zdr7_--lUO_dPj0y9s" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-13T10:01:36.013Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="vmzKhHL0yGhIYYT75fYh" version="22.0.4" type="github">
   <diagram name="第 1 页" id="A0bnlgkThIRBoETc3U4p">
     <mxGraphModel dx="1145" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -34,7 +34,7 @@
         <mxCell id="Lc4hsl8KDaMd5z-WpPfj-6" value="Conv2d_BN_SiLU(k=3, s=1, p=1)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="260" y="490" width="200" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Lc4hsl8KDaMd5z-WpPfj-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="Lc4hsl8KDaMd5z-WpPfj-4">
+        <mxCell id="Lc4hsl8KDaMd5z-WpPfj-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Lc4hsl8KDaMd5z-WpPfj-21" target="Lc4hsl8KDaMd5z-WpPfj-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="360" y="350" as="sourcePoint" />
             <mxPoint x="440" y="540" as="targetPoint" />
@@ -45,6 +45,20 @@
         </mxCell>
         <mxCell id="Lc4hsl8KDaMd5z-WpPfj-22" value="HxWxC_out" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="315" y="540" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Lc4hsl8KDaMd5z-WpPfj-23" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="480" as="sourcePoint" />
+            <mxPoint x="260" y="480" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="260" y="360" />
+              <mxPoint x="460" y="360" />
+              <mxPoint x="460" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lc4hsl8KDaMd5z-WpPfj-24" value="SCConv" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="250" y="360" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
