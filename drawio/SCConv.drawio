@@ -1,9 +1,35 @@
-<mxfile host="app.diagrams.net" modified="2023-10-13T09:00:19.231Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" version="22.0.4" etag="arz0xa7Q7PR7AV6Zgk-s" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-13T09:40:54.887Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="rjFndc11hCxsZd5mmCRc" version="22.0.4" type="github">
   <diagram name="第 1 页" id="A0bnlgkThIRBoETc3U4p">
-    <mxGraphModel>
+    <mxGraphModel dx="1670" dy="943" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Lc4hsl8KDaMd5z-WpPfj-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Lc4hsl8KDaMd5z-WpPfj-4" target="Lc4hsl8KDaMd5z-WpPfj-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lc4hsl8KDaMd5z-WpPfj-4" value="SRU" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="330" y="360" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Lc4hsl8KDaMd5z-WpPfj-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Lc4hsl8KDaMd5z-WpPfj-5" target="Lc4hsl8KDaMd5z-WpPfj-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lc4hsl8KDaMd5z-WpPfj-5" value="SRU" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="330" y="420" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Lc4hsl8KDaMd5z-WpPfj-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Lc4hsl8KDaMd5z-WpPfj-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lc4hsl8KDaMd5z-WpPfj-6" value="Conv2d_BN_SiLU(k=3, s=1, p=1)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="260" y="480" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Lc4hsl8KDaMd5z-WpPfj-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="Lc4hsl8KDaMd5z-WpPfj-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="320" as="sourcePoint" />
+            <mxPoint x="440" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
