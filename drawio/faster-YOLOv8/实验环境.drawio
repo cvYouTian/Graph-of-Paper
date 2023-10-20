@@ -1,0 +1,70 @@
+<mxfile host="Electron" modified="2023-07-30T05:19:14.211Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.1 Chrome/112.0.5615.204 Electron/24.6.1 Safari/537.36" etag="SXOuLsjBBWMa6fAT9k1t" version="21.6.1" type="device">
+  <diagram name="第 1 页" id="E7FV8pIwXT6nveTNGaCU">
+    <mxGraphModel dx="864" dy="516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DIw15B_6P46cHO6aUXGj-1" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=3;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="140" as="sourcePoint" />
+            <mxPoint x="710" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DIw15B_6P46cHO6aUXGj-2" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=3;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="180" as="sourcePoint" />
+            <mxPoint x="710" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DIw15B_6P46cHO6aUXGj-3" value="&lt;b&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;参数&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="210" y="140" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DIw15B_6P46cHO6aUXGj-5" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;实验环境&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="470" y="140" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DIw15B_6P46cHO6aUXGj-6" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=3;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="420" as="sourcePoint" />
+            <mxPoint x="710" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DIw15B_6P46cHO6aUXGj-7" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;操作系统&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="198" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DIw15B_6P46cHO6aUXGj-8" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;CPU&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="215" y="234" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DIw15B_6P46cHO6aUXGj-9" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;GPU&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="215" y="271" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DIw15B_6P46cHO6aUXGj-10" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;内存&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="215" y="307" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DIw15B_6P46cHO6aUXGj-11" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;python&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="205" y="344" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DIw15B_6P46cHO6aUXGj-12" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;深度学习框架&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="190" y="380" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DIw15B_6P46cHO6aUXGj-13" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;Unbuntu 22.04 64位&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="450" y="198" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DIw15B_6P46cHO6aUXGj-14" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;Intel i9-10900K&amp;nbsp; @ 3.7GHz&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="430" y="234" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DIw15B_6P46cHO6aUXGj-15" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;GeForce RTX3090&amp;nbsp; 24G&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="434" y="271" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DIw15B_6P46cHO6aUXGj-16" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;32&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="495" y="307" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DIw15B_6P46cHO6aUXGj-17" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;3.8&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="495" y="344" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DIw15B_6P46cHO6aUXGj-18" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;Pytorch1.8.0 CUDA12.0&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="430" y="380" width="170" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
